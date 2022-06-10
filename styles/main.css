@@ -1,0 +1,11 @@
+.header h2{
+  text-align: center;
+}
+.header img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.header p{
+  text-align: center;
+}
